@@ -27,10 +27,10 @@
 <h2 align="center">🔥 Featured Projects</h2>
 <p align="center">I've built several full-stack applications, such as a social network platform and a dynamic portfolio website. These projects showcase my ability to create scalable and efficient web solutions.</p>
 <p align="center">
-  <a href="https://github.com/caidenvsanders/portfolio-website">
+  <a href="https://github.com/caidenvsanders/caidensanders.com">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=portfolio-website&theme=radical" />
   </a>
-  <a href="https://github.com/caidenvsanders/cloink-social-network">
+  <a href="https://github.com/caidenvsanders/cloiink.com">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=cloink-social-network&theme=radical" />
   </a>
 </p>
