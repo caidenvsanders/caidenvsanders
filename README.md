@@ -25,20 +25,31 @@
 </p>
 
 <h2 align="center">🔥 Featured Projects</h2>
-<p align="center">I've built several full-stack applications, such as a social network platform and a dynamic portfolio website. These projects showcase my ability to create scalable and efficient web solutions.</p>
 <p align="center">
   <a href="https://github.com/caidenvsanders/caidensanders.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=caidensanders.com&theme=graywhite" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=caidensanders.com&theme=dark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=caidensanders.com&theme=graywhite" alt="CaidenSanders.com">
+    </picture>
   </a>
   <a href="https://github.com/caidenvsanders/cloiink.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=cloiink.com&theme=graywhite" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=cloiink.com&theme=dark">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=cloiink.com&theme=graywhite" alt="Cloiink.com">
+    </picture>
   </a>
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=caidenvsanders&show_icons=true&theme=graywhite"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=caidenvsanders&layout=compact&theme=graywhite"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=caidenvsanders&show_icons=true&theme=dark">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=caidenvsanders&show_icons=true&theme=graywhite" alt="Caiden's GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=caidenvsanders&layout=compact&theme=dark">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=caidenvsanders&layout=compact&theme=graywhite" alt="Caiden's Top Languages">
+  </picture>
 </p>
 
 <h2 align="center">🌐 Reach Me</h2>
