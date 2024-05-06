@@ -42,7 +42,3 @@
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github.com/caidenvsanders/caidenvsanders/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
