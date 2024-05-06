@@ -28,10 +28,10 @@
 <p align="center">I've built several full-stack applications, such as a social network platform and a dynamic portfolio website. These projects showcase my ability to create scalable and efficient web solutions.</p>
 <p align="center">
   <a href="https://github.com/caidenvsanders/caidensanders.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=portfolio-website&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=caidensanders.com&theme=radical" />
   </a>
   <a href="https://github.com/caidenvsanders/cloiink.com">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=cloink-social-network&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=cloiink.com&theme=radical" />
   </a>
 </p>
 
