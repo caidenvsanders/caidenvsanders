@@ -24,8 +24,16 @@
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center">🔥 My Projects</h2>
+<h2 align="center">🔥 Featured Projects</h2>
 <p align="center">I've built several full-stack applications, such as a social network platform and a dynamic portfolio website. These projects showcase my ability to create scalable and efficient web solutions.</p>
+<p align="center">
+  <a href="https://github.com/caidenvsanders/portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=portfolio-website&theme=radical" />
+  </a>
+  <a href="https://github.com/caidenvsanders/cloink-social-network">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=caidenvsanders&repo=cloink-social-network&theme=radical" />
+  </a>
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
