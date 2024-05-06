@@ -38,7 +38,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=caidenvsanders&show_icons=true&theme=graywhite"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=caidenvsanders&layout=compact&theme=graywhite&card_width=320"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=caidenvsanders&layout=compact&theme=graywhite"/>
 </p>
 
 <h2 align="center">🌐 Reach Me</h2>
